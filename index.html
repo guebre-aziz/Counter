@@ -5,15 +5,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>A Basic HTML5 Template</title>
+  <title>Counter</title>
   <meta name="description" content="A simple HTML5 counter.">
   <meta name="author" content="Guebre Aziz">
   <link rel="stylesheet" href="css/styles.css">
-
 </head>
 
 <body>
-  
+  <div class="mainDiv">
+    <div class="counterTextDiv">
+      <p id="counterTextId">XXX</p>
+      <div id="buttonsDivId">
+        <button id="resetButtonId" class="resetButton">Reset</button>
+        <button id="buttonPlusId" class="myButton">+</button>
+        <button id="buttonMinusId" class="myButton">-</button>
+        <input id="refValueId" value="1" type="number"></input>
+      </div>
+    </div>
+  </div>
 
   <!-- scripts... -->
   <script src="js/scripts.js"></script>
