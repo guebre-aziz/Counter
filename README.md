@@ -31,15 +31,17 @@
  instagram: https://www.instagram.com/guebreaziz_/
 
 ## Version History
+* 0.4
+    * All content implemented with javascript.
 
 * 0.3
-    * responsive optimizations
+    * responsive optimizations.
 
 * 0.2
-    * rearranged js and index.html file
+    * rearranged js and index.html file.
 
 * 0.1
-    * Initial Release
+    * Initial Release.
 
 ## License
 
